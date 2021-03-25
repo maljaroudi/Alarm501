@@ -1,0 +1,13 @@
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\bin\Debug\Alarmy.exe.config
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\bin\Debug\Alarmy.exe
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\bin\Debug\Alarmy.pdb
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.csprojAssemblyReference.cache
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.Properties.Resources.resources
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.csproj.GenerateResource.cache
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.csproj.CoreCompileInputs.cache
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.exe
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.pdb
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.alarmGUI.resources
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.TimeAddr.resources
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.AdderRemover.resources
+C:\Users\Egoist\source\repos\sahuarolabs\maljaroudi-CW-Spring2021\Alarmy\obj\Debug\Alarmy.AlarmDialogue.resources
